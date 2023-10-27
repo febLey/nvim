@@ -1,5 +1,3 @@
-vim.g.color = panda
-
 vim.o.autoindent = true		-- indent a new line the same amount as the line just typed
 vim.o.smartindent = true
 vim.o.cc = "80"			-- set a column border for good coding
